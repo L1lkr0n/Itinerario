@@ -1,0 +1,7 @@
+{
+  "name": "Itinerario",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
